@@ -1,0 +1,42 @@
+# ==================
+# Java Build Files
+# ==================
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+
+# Maven
+target/
+
+# Gradle
+build/
+.gradle/
+
+# Log files
+*.log
+
+# ==================
+# VS Code
+# ==================
+.vscode/
+.history/
+
+# ==================
+# System files
+# ==================
+.DS_Store
+Thumbs.db
+
+# ==================
+# Backup files
+# ==================
+*.tmp
+*.bak
+*.swp
+
+# IntelliJ IDEA (if you ever use it)
+*.iml
+.idea/
+out/
